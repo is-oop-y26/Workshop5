@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Workshop5.Application.Models\Workshop5.Application.Models.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="SourceKit.Generators.Builder" />
+  </ItemGroup>
+</Project>

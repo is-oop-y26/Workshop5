@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Workshop5.Application.Models\Workshop5.Application.Models.csproj" />
+  </ItemGroup>
+</Project>

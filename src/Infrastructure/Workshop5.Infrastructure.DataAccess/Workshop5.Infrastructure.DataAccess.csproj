@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\Application\Workshop5.Application.Abstractions\Workshop5.Application.Abstractions.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Itmo.Dev.Platform.Postgres" />
+  </ItemGroup>
+</Project>
